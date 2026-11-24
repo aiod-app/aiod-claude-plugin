@@ -1,0 +1,6 @@
+{
+  "aiod-discounts": {
+    "type": "http",
+    "url": "https://aiod-automatic-discount.com/mcp"
+  }
+}
