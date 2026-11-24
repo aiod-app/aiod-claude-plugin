@@ -1,9 +1,9 @@
 {
   "name": "aiod-discounts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Build, edit and troubleshoot the Shopify discounts the AIOD Discount & Gift app manages: BOGO, free gifts, tiered and volume breaks, bundles, free shipping and sales. Connects the AIOD MCP server and adds skills for previewing before creating and checking stacking conflicts.",
   "author": {
-    "name": "AIOD",
+    "name": "247 Apps Inc",
     "email": "aiod-app@dtcdevelopers.org",
     "url": "https://www.aiodapp.com"
   },
