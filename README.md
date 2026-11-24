@@ -28,7 +28,12 @@ The plugin contains no code. It configures one remote connector, `https://aiod-a
 - **Read from your store:** only the discounts the AIOD app manages, and aggregate performance figures for them (orders, revenue influenced, discount given).
 - **Not accessed:** orders, customers, products beyond the ones a discount references, and discount codes or discounts created in the Shopify admin or by other apps.
 
-AIOD keeps a usage log of connector calls (tool, outcome, timing) to run and support the service. Nothing is sent anywhere else. See the [privacy policy](https://www.aiodapp.com/privacy-policy/) and the [data processing terms](https://www.aiodapp.com/dpa/).
+AIOD keeps a usage log of connector calls (tool, outcome, timing) to run and support the service. Two of AIOD's service providers also receive data:
+
+- **Mintlify**, which hosts AIOD's documentation, receives your search terms when Claude searches the setup guides.
+- **PostHog**, AIOD's product-analytics provider, receives an event when Claude creates a discount: your store domain, the store's contact email and plan, and the kind of discount created.
+
+Nothing is sent anywhere else. See the [privacy policy](https://www.aiodapp.com/privacy-policy/) and the [data processing terms](https://www.aiodapp.com/dpa/).
 
 ## Support
 
