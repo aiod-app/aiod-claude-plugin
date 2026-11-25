@@ -1,4 +1,6 @@
-# AIOD Discounts for Claude
+# AIOD Discounts & Free Gift for Claude
+
+Published by **247 Apps Inc**, the maker of the AIOD Discount & Gift Shopify app ([aiodapp.com](https://www.aiodapp.com)). This plugin pairs with the "AIOD Discounts & Free Gift" connector from the same publisher.
 
 Build, edit and troubleshoot the Shopify discounts that the **AIOD Discount & Gift** app runs on your store, by asking Claude in plain language.
 
